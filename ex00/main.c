@@ -6,9 +6,11 @@
 /*   By: averheij <averheij@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2019/09/22 10:17:58 by averheij       #+#    #+#                */
-/*   Updated: 2019/09/22 10:19:28 by averheij      ########   odam.nl         */
+/*   Updated: 2019/09/22 10:58:55 by averheij      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdio.h>
 
 int		match(char *s1, char *s2);
 
